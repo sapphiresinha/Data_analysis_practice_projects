@@ -12,6 +12,6 @@ Along with exploring Dataset, we would also use matplotlib for the ploting some 
 
 ## Project Instructions
 * Python 3.7
-* Used jupyter-Notebook
+* Used jupyter-notebook
 * Install pandas, Numpy, Matplotlib(if not installed)
 
