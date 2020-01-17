@@ -1,6 +1,6 @@
 # Project Overview
 
-In this file you can find some small practice project I completed during my learning phase(Via Datacamp, coursera etc).  
+In this file you can find some small practice project I completed during my learning phase(Via datacamp, coursera, udacity etc).  
 
 ## First project: Dr. Semmelweis and the Discovery of Handwashing.
 
